@@ -28,11 +28,11 @@ The layout adapts smoothly across different screen sizes:
 └── logos/
 
 ## 🚀 Live Preview 
-Coming soon
+[View Live Site](https://nazmussakib-dev.github.io/influencer-gear-ui/)
 
 ## 📌 Purpose
 This project was built as a frontend practice to improve layout design, responsiveness, and clean UI implementation.
 
 ## 👤 Author
 **Nazmus Sakib**  
-Aspiring Frontend / Software Engineer
+Aspiring Software Engineer
