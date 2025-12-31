@@ -22,10 +22,13 @@ The layout adapts smoothly across different screen sizes:
 - Mobile: stacked layout with simplified navigation
 
 ## 📂 Project Structure
+
+```
 ├── index.html
 ├── styles.css
 ├── images/
 └── logos/
+```
 
 ## 🚀 Live Preview 
 [View Live Site](https://nazmussakib-dev.github.io/influencer-gear-ui/)
