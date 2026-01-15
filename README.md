@@ -38,4 +38,8 @@ This project was built as a frontend practice to improve layout design, responsi
 
 ## 👤 Author
 **Nazmus Sakib**  
-Aspiring Software Engineer
+
+Aspiring Software Engineer  
+Department of Computer Science & Engineering  
+Jagannath University, Dhaka
+
